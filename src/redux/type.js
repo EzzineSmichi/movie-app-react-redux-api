@@ -1,0 +1,7 @@
+export const LOAD_API = 'LOAD_API'
+export const LOAD_API_SUCCESS = 'LOAD_API_SUCCESS'
+export const LOAD_API_ERROR = 'LOAD_API_ERROR' 
+export const SEARCH_TERM = 'SEARCH_TERM'
+export const DELETE_MOVIE = 'DELETE_MOVIE'
+export const ADD_MOVIE = 'ADD_MOVIE'
+export const MODIFY_MOVIE = 'MODIFY_MOVIE'
